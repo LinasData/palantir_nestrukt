@@ -5,6 +5,13 @@ by Linas Kapočius
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whitebearlake.org%2Fee%2Fpage%2Ftrash-treasure-day&psig=AOvVaw2iv3GhcOcUBhGBCaYfW73U&ust=1695461436374000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMje45f0vYEDFQAAAAAdAAAAABAE
 
 
+![image](https://github.com/DataAIchemist/palantir_nestrukt/assets/68922285/6e00418a-e1fa-43c8-8a80-48393a116f00)
+
+Pirma vieta, kur reikia ieškoti informacijos kaip tvarkyti nestruktūrizuotus failus yra:
+https://www.palantir.com/docs/foundry/transforms-python/unstructured-files/index.html 
+FHIR: https://www.fhir.org/
+
+
 ## Failo struktūros dokumentacija/paieška:
 * Oficiali dokumentacija. Pvz., https://parquet.apache.org/docs/ 
 * https://www.registrai.lt - informacija apie valstybines IS
@@ -87,3 +94,5 @@ Tarkime archyve yra dar vienas archyvas su nežinomais failiukais. Uždedamas br
 ```
 
 Struktūra analizuojama lokaliai pasirinktais būdais.
+
+
