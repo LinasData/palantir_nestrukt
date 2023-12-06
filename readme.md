@@ -1,6 +1,5 @@
 
 # Darbo su nestruktūrizuotais failais metodika
-by Linas Kapočius
 
 ![image](https://github.com/DataAIchemist/palantir_nestrukt/assets/68922285/6e00418a-e1fa-43c8-8a80-48393a116f00)
 
